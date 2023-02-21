@@ -2,7 +2,7 @@
 
 Lens ( radial ) distortion  pass for threejs postprocessing. 
 
-[Live example](https://skJaganFalconicx/bareelDistortion/example/)
+[Live example](https://skjaganfalconicx.github.io/bareelDistortion/example/)
 
 
 
